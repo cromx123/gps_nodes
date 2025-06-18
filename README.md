@@ -60,9 +60,9 @@ id: Juan12,Juan,1,19.4326085,-99.133209
 
 ## Capturas de pantalla 📸
 
-| Vista principal | Mapa con puntos |
-|-----------------|-----------------|
-| ![Vista principal](screenshots/main.png) | ![Mapa](screenshots/map.png) |
+| Vista principal | Mapa con puntos | Mapa con puntos 2 |
+|-----------------|-----------------|-------------------|
+| ![Menu principal](screenshots/Principal_menu.jpg) | ![Mapa](screenshots/Mapa.jpg) |![Mapa Lejos](screenshots/mapa_2.jpg) |
 
 ## Estructura del proyecto 🗂️
 
